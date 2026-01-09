@@ -1,0 +1,10 @@
+{
+  "name": "vulnerable-api-sample",
+  "version": "1.0.0",
+  "dependencies": {
+    "aws-sdk": "2.800.0",
+    "lodash": "4.17.15",
+    "axios": "0.19.0"
+  },
+  "description": "❌ lodash 4.17.15 (Prototype Pollution), axios 0.19.0 (SSRF) の検証用"
+}
